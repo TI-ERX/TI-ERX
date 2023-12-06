@@ -1,4 +1,4 @@
-# Hi, I'm Erick <img src="https://github.com/TI-ERX/TI-ERX/blob/main/GIFS/Gif.2.png" width="50">
+# Hi, I'm Erick <img src="https://github.com/TI-ERX/TI-ERX/blob/main/GIFS/Gif.2.png" width="50"> : )
 
 Hello, my name is Erick Daniel, and I am currently pursuing a degree in Systems Analysis and Development at the University of Paraná (Unipar). 
 
