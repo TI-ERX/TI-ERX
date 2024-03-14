@@ -49,8 +49,6 @@ _Olá, meu nome é Erick Daniel e atualmente estou cursando Análise e Desenvolv
 
 _Esta conta GitHub serve como meu perfil secundário, criado especificamente para testar scripts e vários projetos à medida que me aprofundo no mundo da programação. Estou empenhado em aprimorar minhas habilidades e expandir meu conhecimento neste campo dinâmico._
 
-<br>
-
 </div>
 
 ##
