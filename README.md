@@ -104,8 +104,6 @@ _Outras skills: :paintbrush: design gráfico, :video_game: jogos,
 [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,prometheus,postgres,pr,ps,linux,ai,heroku,figma,au,androidstudio)](https://skillicons.dev)
 
 <br>
-<br> 
-<br>
 
 <!--Code Cicle Emoji-->
 <div align="center">
