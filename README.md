@@ -6,11 +6,50 @@
   <img src="IMG/ProfileBlack.png" alt="Profile Picture">
 </div>
 
+<br>
+
+<table align="center">
+    <tr>
+        <td style="padding: 0 5px;">
+            <a href="https://github.com/ErickDaniel7/ErickDaniel7">
+                <img height="32" alt="GitHub" src="IMG/GitHub.svg" />
+            </a>
+        </td>
+        <td style="padding: 0 5px;">
+            <a href="mailto:erixkat10@gmail.com">
+                <img height="32" alt="Mail" src="IMG/Gmail.svg" />
+            </a>
+        </td>
+        <td style="padding: 0 5px;">
+            <a href="https://www.linkedin.com/in/Erixk">
+                <img height="32" alt="LinkedIn" src="IMG/LinkedIn.svg" />
+            </a>
+        </td>
+        <td style="padding: 0 5px;">
+            <a href="https://paypal.me/quartezin">
+                <img height="32" alt="Buy Me a Coffee" src="IMG/Paypal.svg" />
+            </a>
+        </td>
+        <td style="padding: 0 5px;">
+            <a href="https://www.instagram.com/erickdanielteixeira">
+                <img height="32" alt="Instagram" src="IMG/Instagram.svg" />
+            </a>
+        </td>
+        <td style="padding: 0 5px;">
+            <a href="https://portofolio-erickdaniel7.vercel.app">
+                <img height="32" alt="Porfolio" src="IMG/Portfolio.svg" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 # _Olá, como vai?._ <img src="https://github.com/TI-ERX/TI-ERX/blob/main/GIFS/Gif.2.png" width="50">
 
 _Olá, meu nome é Erick Daniel e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade do Paraná (Unipar)._
 
 _Esta conta GitHub serve como meu perfil secundário, criado especificamente para testar scripts e vários projetos à medida que me aprofundo no mundo da programação. Estou empenhado em aprimorar minhas habilidades e expandir meu conhecimento neste campo dinâmico._
+
+<br>
 
 </div>
 
@@ -65,33 +104,6 @@ _Outras skills: :paintbrush: design gráfico, :video_game: jogos,
 ## Software
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,prometheus,postgres,pr,ps,linux,ai,heroku,figma,au,androidstudio)](https://skillicons.dev)
-
-
-## Links
-
-<a href="https://github.com/ErickDaniel7/ErickDaniel7">
-    <img height="32" align="left" alt="GitHub" src="IMG/GitHub.svg" />
-</a>
-
-<a href="mailto:erixkat10@gmail.com">
-    <img height="32" align="left" alt="Mail" src="IMG/Gmail.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/Erixk">
-    <img height="32" align="left" alt="LinkedIn" src="IMG/LinkedIn.svg" />
-</a>
-
-<a href="https://paypal.me/quartezin">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="IMG/Paypal.svg" />
-</a>
-
-<a href="https://www.instagram.com/erickdanielteixeira">
-    <img height="32" align="left" alt="Instagram" src="IMG/Instagram.svg" />
-</a>
-
-<a href="https://portofolio-erickdaniel7.vercel.app">
-    <img height="32" align="left" alt="Porfolio" src="IMG/Portfolio.svg" />
-</a>
 
 <br>
 <br> 
