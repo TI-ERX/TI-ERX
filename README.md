@@ -83,9 +83,9 @@ _Esta conta GitHub serve como meu perfil secundário, criado especificamente par
 
 <img align="right" alt="Crazy" width="350" src="https://github.com/TI-ERX/TI-ERX/blob/main/GIFS/Gif.1.gif" />
 
-:shipit: Minha Conta principal GitHub @ [**ErickDaniel7**][acc]  
-:shipit: Estudante de Análise e desenvolvimento de sistemas na @ [**UNIPAR**][unv]  
-:shipit: Residente em [**CascavelPR**][cvc]  
+:no_good_man: Minha Conta principal GitHub @ [**ErickDaniel7**][acc]  
+:mortar_board: Estudante de Análise e desenvolvimento de sistemas na @ [**UNIPAR**][unv]  
+:round_pushpin: Residente em [**CascavelPR**][cvc]  
 
 [acc]: https://github.com/ErickDaniel7/ErickDaniel7
 [unv]: https://www.unipar.br/
