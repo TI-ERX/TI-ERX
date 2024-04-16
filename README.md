@@ -3,7 +3,7 @@
 <div align="center">
   <!--Avatar-->
   <div align="center">
-  <img src="IMG/ProfileBlack.png" alt="Profile Picture">
+  <img src="IMG/Profile.png" alt="Profile Picture">
 </div>
 
 <br>
